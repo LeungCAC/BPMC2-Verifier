@@ -1,4 +1,4 @@
-\textbf{Readme 中文}
+Readme 中文
 
 这个工具和文章《Qualitative and Quantitative Model Checking against Recurrent Neural Networks》所对应。
 
@@ -15,7 +15,7 @@ qq_verify.py给出了定性验证和定量验证的验证方法；
 此外，vertex_reduce.py 则是文中提到的顶点压缩算法的具体实现。test.py给出了一个简单可验证的前向传播的例子。
 
 
-\textbf{Readme  English}
+Readme  English
 
 This tool is in line with the paper entitled  "Qualitative and Quantitative Model Checking Against Recurrent Neural Networks".  
  
