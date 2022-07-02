@@ -1,4 +1,5 @@
-Readme 中文
+\textbf{Readme 中文}
+
 这个工具和文章《Qualitative and Quantitative Model Checking against Recurrent Neural Networks》所对应。
 
 以poly命名的相关文件实现了polyhedra的H-presentation和V-presentation转换，体积计算，包含关系，线性变换，relu函数等功能；
@@ -14,7 +15,8 @@ qq_verify.py给出了定性验证和定量验证的验证方法；
 此外，vertex_reduce.py 则是文中提到的顶点压缩算法的具体实现。test.py给出了一个简单可验证的前向传播的例子。
 
 
-Readme  English
+\textbf{Readme  English}
+
 This tool is in line with the paper entitled  "Qualitative and Quantitative Model Checking Against Recurrent Neural Networks".  
  
 Files named in the style "poly_XXX" have realized h-presentation and V-Presentation conversion, volume calculation, inclusion relation, linear transformation, RELU function and other functions of Polyhedra.  
